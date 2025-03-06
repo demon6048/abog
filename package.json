@@ -1,0 +1,16 @@
+{
+  "name": "centro-conciliacion",
+  "version": "1.0.0",
+  "description": "Página web del Centro de Conciliación",
+  "main": "app.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "browserslist": "> 0.25%, not dead"
+}
